@@ -29,16 +29,3 @@
 | [**TableTap**](https://github.com/lucene-nguyen/qr-ordering-starter-kit) · [Live demo](https://qr-ordering-starter-kit.vercel.app) | QR table ordering starter kit: guests order from their phone and pay with VietQR, the kitchen gets orders in realtime, the owner sees revenue | Next.js · Supabase · Tailwind · Playwright · Vercel |
 | [**rate-limiting-lab**](https://github.com/lucene-nguyen/rate-limiting-lab) | Per-IP Token Bucket rate limiter backed by Redis (`SET NX`, `KEEPTTL`, TTL-based expiry) | NestJS · TypeScript · Redis · ioredis |
 | [**NginX**](https://github.com/lucene-nguyen/NginX) | NGINX rate limiting at the proxy layer (`1r/s`, `burst=2`, `nodelay`, HTTP 429) | NGINX · Docker Compose |
-
-## 📊 GitHub stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg"/>
-    <img alt="GitHub stats" src="./profile/stats-light.svg" height="165"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg"/>
-    <img alt="Top languages" src="./profile/top-langs-light.svg" height="165"/>
-  </picture>
-</p>
