@@ -1,11 +1,44 @@
+<h1 align="center">Hi, I'm Nguyễn Mạnh Cường (Lucene Nguyen) 👋</h1>
 
-# Hi, I am [Manh Cuong](https://github.com/lucene-nguyen) 👋 <img align="right" src="https://komarev.com/ghpvc/?username=lucene-nguyen&color=lightgrey&style=plastic" alt="lucene-nguyen" />
+<p align="center">
+  <b>Full-stack Software Engineer</b> · Node.js · NestJS · React · TypeScript · AWS<br/>
+  I build production-ready web apps and open-source <b>domain starter kits</b> that teams can fork and ship fast.
+</p>
 
-## 🤝 Connect with me:
-[<img align="left" alt="Cuong Nguyen | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cuong-m-nguyen/)
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/cuong-m-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
-| <a href="https://github.com/lucene-nguyen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucene-nguyen&show_icons=true&include_all_commits=true&theme=buefy&rank_icon=github" alt="lucene-nguyen's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucene-nguyen&layout=donut&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucene-nguyen&layout=donut&theme=buefy" alt="ManhCuong's Most Used Languages"/></a> |
-| ------------- | ------------- |
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucene-nguyen&repo=ApolloServer-Prisma-Supabase&theme=buefy)](https://github.com/lucene-nguyen/ApolloServer-Prisma-Supabase)
+## 🧑‍💻 About me
+
+- ~5 years building full-stack products with **Node.js / NestJS** on the backend and **React / Next.js** on the frontend
+- Deploying on **AWS**, **Vercel** and **Supabase**; comfortable from database design to CI/CD
+- 🔭 Currently building a series of **domain starter kits** and hands-on labs on backend fundamentals (rate limiting, reverse proxies, …)
+- 🎓 Studying Information Technology at University of Information Technology (UIT), VNU-HCM
+
+## 🛠️ Tech stack
+
+<p>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,tailwind,graphql,prisma,postgres,supabase,redis,nginx,aws,docker,vercel,git&perline=9"/>
+</p>
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**TableTap**](https://github.com/lucene-nguyen/qr-ordering-starter-kit) · [Live demo](https://qr-ordering-starter-kit.vercel.app) | QR table ordering starter kit: guests order from their phone and pay with VietQR, the kitchen gets orders in realtime, the owner sees revenue | Next.js · Supabase · Tailwind · Playwright · Vercel |
+| [**rate-limiting-lab**](https://github.com/lucene-nguyen/rate-limiting-lab) | Per-IP Token Bucket rate limiter backed by Redis (`SET NX`, `KEEPTTL`, TTL-based expiry) | NestJS · TypeScript · Redis · ioredis |
+| [**NginX**](https://github.com/lucene-nguyen/NginX) | NGINX rate limiting at the proxy layer (`1r/s`, `burst=2`, `nodelay`, HTTP 429) | NGINX · Docker Compose |
+
+## 📊 GitHub stats
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg"/>
+    <img alt="GitHub stats" src="./profile/stats-light.svg" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg"/>
+    <img alt="Top languages" src="./profile/top-langs-light.svg" height="165"/>
+  </picture>
+</p>
